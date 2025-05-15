@@ -6,8 +6,8 @@ Certified Scrum Master and always learning something new — currently focused o
 
 - 🧪 Former researcher & PhD
 - 📊 Working with Python, SQL, Power BI, Excel
-- 🛠️ Interested in data analytics, storytelling, and reproducible science
-- 💡 Learning every day (currently AI, machine learning) with curiosity and creativity
+- 🛠️ Interested in data analytics, data science, AI, and reproducible science
+- 💡 Learning every day with curiosity and creativity
 - 📚 Outside the screen: manga reader, moviegoer, volleyball libero, and gym regular
 
 <!--
